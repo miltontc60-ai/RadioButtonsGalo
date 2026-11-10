@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RadioButtons - Galo</string>
+    <string name="student_name">Estudiante: Galo</string>
+    <string name="course_title">Aplicaciones Móviles - Semana 2</string>
+    
+    <!-- Opciones del Menú Principal -->
+    <string name="title_encuesta">1. Encuesta de Satisfacción</string>
+    <string name="desc_encuesta">Valoración de experiencia de servicio mediante RadioButtons y resumen interactivo.</string>
+    
+    <string name="title_tema">2. Selector de Tema</string>
+    <string name="desc_tema">Cambio dinámico entre Modo Claro, Modo Oscuro y Sistema.</string>
+    
+    <string name="title_quiz">3. Quiz Simple</string>
+    <string name="desc_quiz">Cuestionario evaluativo con selección única y desglose de respuestas.</string>
+    
+    <string name="title_propinas">4. Calculadora de Propinas</string>
+    <string name="desc_propinas" formatted="false">Cálculo de propinas del 10%, 15% o 20% y división opcional de cuenta.</string>
+    
+    <string name="title_conversor">5. Conversor de Unidades</string>
+    <string name="desc_conversor">Conversiones entre medidas de longitud, masa/peso y escalas térmicas.</string>
+</resources>
